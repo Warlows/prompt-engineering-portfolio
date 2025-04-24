@@ -1,5 +1,6 @@
 # prompt-engineering-portfolio
 Zestaw projektów i promptów używanych w AI i automatyzacji testów
+
 Cześć!  
 Jestem Paweł i tworzę skuteczne prompty dla AI, które wspierają testowanie, analizę funkcji oraz rozwój aplikacji.  
 
