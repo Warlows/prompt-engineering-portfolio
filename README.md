@@ -1,15 +1,20 @@
 # prompt-engineering-portfolio
 Zestaw projektów i promptów używanych w AI i automatyzacji testów
 
-Cześć!  
-Jestem Paweł i tworzę skuteczne prompty dla AI, które wspierają testowanie, analizę funkcji oraz rozwój aplikacji.  
+# 🤖 AI Portfolio – Paweł Drohomirecki
 
-To repozytorium to zestaw:
-- promptów testerskich
-- promptów produktowych
-- projektów agentów AI
-- porównań technologii (Cypress, Playwright, Java, Python)
-- case study z praktycznymi zastosowaniami
+Witaj! Nazywam się Paweł i tworzę portfolio AI & QA, budując krok po kroku swoją karierę jako przyszły Prompt Engineer i tester AI.  
+To repozytorium dokumentuje moje projekty, naukę i praktykę związaną z testowaniem oraz tworzeniem agentów AI.
+
+## 🔍 Sekcje portfolio:
+
+- **01_ai_agents/** – moje testy, pomysły i implementacje agentów AI
+- **02_test_cases/** – przypadki testowe do funkcji web/aplikacji
+- **03_prompt_engineering/** – najlepsze prompty, łańcuchy i struktury
+- **04_automation_tests/** – testy automatyczne w Cypress i Playwright
+- **05_learning_journey/** – moje notatki i ścieżka nauki
+
+Każdy folder zawiera własny plik README.md z opisem konkretnej sekcji.
 
 **Cel:**  
 Pokazać moje podejście do tworzenia i testowania promptów, oraz jak można efektywnie wykorzystać AI w pracy inżyniera testów i automatyzacji.
