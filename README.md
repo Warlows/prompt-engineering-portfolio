@@ -11,8 +11,8 @@ To repozytorium dokumentuje moje projekty, naukę i praktykę związaną z testo
 - **01_ai_agents/** – moje testy, pomysły i implementacje agentów AI
 - **02_test_cases/** – przypadki testowe do funkcji web/aplikacji
 - **03_prompt_engineering/** – najlepsze prompty, łańcuchy i struktury
-- **04_automation_tests/** – testy automatyczne w Cypress i Playwright
-- **05_learning_journey/** – moje notatki i ścieżka nauki
+- **04_learning_journey/** – moje notatki i ścieżka nauki
+
 
 Każdy folder zawiera własny plik README.md z opisem konkretnej sekcji.
 
